@@ -6,7 +6,7 @@ This project is using react-notifications-component to create notifications.
 
 ## Getting Started
 
-npm i 
+### `npm i` to install all the libraries 
 
 
 ## Available Scripts
