@@ -1,5 +1,14 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## react-notifications-component
+
+This project is using react-notifications-component to create notifications.
+
+## Getting Started
+
+npm i 
+
+
 ## Available Scripts
 
 In the project directory, you can run:
